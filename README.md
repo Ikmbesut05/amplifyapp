@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# amplifyapp" 
 "# amplifyapp" 
 "# Test1-Syahrilmizan" 
+"# Test1-Syahrilmizan" 
